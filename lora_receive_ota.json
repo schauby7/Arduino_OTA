@@ -1,0 +1,8 @@
+{
+  "Configurations": [
+    {
+      "Version": "1.1.0",
+      "URL": "http://35.211.241.155/arduino/lora/lora_receive_ota.bin"
+    }
+  ]
+}
